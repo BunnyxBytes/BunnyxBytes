@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Priyansu%20Dash&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Student%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=55&descAlign=62" alt="Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Software+Engineering+Student;AI+%26+IoT+Enthusiast;Building+Practical+Solutions" alt="Typing SVG" />
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Software+Engineering+Student;AI+%26+IoT+Enthusiast;Building+Practical+Solutions" alt="Typing SVG" />
   </a>
   
   <br />
